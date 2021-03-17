@@ -1,7 +1,7 @@
 ### Hello Techies ! 👋 I'm Damindu Sandaruwan, 
 
 
-- 🎓 I’m currently an undergraduate at University of Sri jayawardenepura
+- 🎓 I’m currently an undergraduate at University of Sri Jayawardenepura
 - 🔭 I’m currently working as a Mobile App Developer
 - 👯 I’m looking to collaborate on any open-source projects
 - 🌱 I’m currently learning Flutter Framework, C#, Java and Firebase.
